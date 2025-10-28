@@ -1,0 +1,16 @@
+2025-10-28 08:09:23,593 - INFO - Added student: 483a0a62-6483-4c38-92e8-88f12b5b7baf
+2025-10-28 08:10:27,488 - INFO - Added student: dc3322c2-37cc-4a85-9383-d2d4904f1b27
+2025-10-28 08:16:19,070 - ERROR - Error adding student: 'age'
+2025-10-28 08:22:24,820 - ERROR - Error adding student: 'age'
+2025-10-28 08:27:11,478 - ERROR - Error adding student: type object 'Student' has no attribute 'from_dict'
+2025-10-28 08:27:53,675 - ERROR - Error adding student: type object 'Student' has no attribute 'from_dict'
+2025-10-28 08:30:50,811 - ERROR - Error adding student: type object 'Student' has no attribute 'from_dict'
+2025-10-28 08:33:17,435 - ERROR - Error adding student: 'dict' object has no attribute 'to_dict'
+2025-10-28 08:36:07,297 - ERROR - Error adding student: Expecting value: line 1 column 1 (char 0)
+2025-10-28 08:38:34,786 - ERROR - Error adding student: 'dict' object has no attribute 'to_dict'
+2025-10-28 09:35:55,367 - ERROR - Error adding student: Expecting value: line 1 column 1 (char 0)
+2025-10-28 09:46:23,745 - INFO - Added student: 05d66685-03b5-48ff-b28e-8c902afa624f
+2025-10-28 09:46:56,318 - INFO - Added student: dc111082-a4f2-43e4-9c62-73d5b73cf2ef
+2025-10-28 11:14:03,682 - INFO - Added student: 7855312f-0fd7-4c2a-9310-1ab71b842d63
+2025-10-28 11:15:43,719 - INFO - Updated student: dc111082-a4f2-43e4-9c62-73d5b73cf2ef
+2025-10-28 11:16:29,161 - INFO - Deleted student: 7855312f-0fd7-4c2a-9310-1ab71b842d63

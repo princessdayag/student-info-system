@@ -1,0 +1,20 @@
+[
+  {
+    "student_id": "05d66685-03b5-48ff-b28e-8c902afa624f",
+    "name": "Princess Dayag",
+    "email": "princessdayag@gmail.com",
+    "course": "BSIT",
+    "year_level": "",
+    "created_at": "2025-10-28T09:46:23.744774",
+    "updated_at": "2025-10-28T09:46:23.744865"
+  },
+  {
+    "student_id": "dc111082-a4f2-43e4-9c62-73d5b73cf2ef",
+    "name": "Jayna Ginny",
+    "email": "jaynaginny@gmail.com",
+    "course": "BSIT",
+    "year_level": "2",
+    "created_at": "2025-10-28T09:46:56.316781",
+    "updated_at": "2025-10-28T11:15:43.717996"
+  }
+]
