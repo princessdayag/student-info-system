@@ -1,30 +1,58 @@
-# 🎓 Student Information System
+Student Information System
+Overview
 
-A simple command-line Student Information System built using Python.
+The Student Information System is a simple Python program designed to manage student records.
+It allows users to add, view, update, and delete student information. All student data is stored in a JSON file to ensure that records are saved even after the program is closed.
 
----
+Features
 
-## 📋 Overview
-This program allows users to manage student records — including adding, viewing, updating, and deleting information.  
-All data is stored in a JSON file (`students.json`).
+Add new student information
 
----
+View the list of all students
 
-## ✨ Features
-✅ Add new student records  
-✅ View all existing students  
-✅ Search students by ID  
-✅ Update and delete records  
-✅ Store and load data from `students.json` file  
+Search for a student by ID
 
----
+Update existing student details
 
-## 🧠 How to Run the Program
+Delete student records
 
-### 1️⃣ Open the project folder
-You can open it in **VS Code** or use your **Command Prompt / Terminal**.
+Save and load data using a JSON file
 
-### 2️⃣ Navigate to the project directory
-If you are not already inside the project folder, run this command in your terminal:
-```bash
+How to Run the Program
+Step 1: Open the Project Folder
+
+Make sure the project folder is opened in Visual Studio Code (VS Code) or any code editor you use.
+
+Step 2: Navigate to the Project Directory
+
+In the terminal, use the following command to move into the project folder:
+
 cd student-info-system
+
+Step 3: Run the Program
+
+Once inside the project folder, run the following command to start the program:
+
+python -m src.main
+
+Project Structure
+student-info-system/
+│
+├── data/
+│   └── students.json
+│
+├── logs/
+│   └── app.log
+│
+├── src/
+│   ├── models/
+│   │   └── student.py
+│   ├── services/
+│   │   └── student_services.py
+│   └── main.py
+│
+└── README.md
+
+Author
+
+Developed by Princess Dayag
